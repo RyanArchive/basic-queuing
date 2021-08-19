@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\bin\Debug\Basic Queuing System.exe.config
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\bin\Debug\Basic Queuing System.exe
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\bin\Debug\Basic Queuing System.pdb
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic Queuing System.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic_Queuing_System.CashierWindowQueue.resources
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic_Queuing_System.QueuingForm.resources
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic_Queuing_System.Properties.Resources.resources
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic Queuing System.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic Queuing System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic Queuing System.exe
+C:\Users\Acer\source\repos\Basic Queuing System\Basic Queuing System\obj\Debug\Basic Queuing System.pdb
